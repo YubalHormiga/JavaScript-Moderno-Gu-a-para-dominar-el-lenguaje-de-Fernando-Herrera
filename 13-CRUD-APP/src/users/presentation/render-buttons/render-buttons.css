@@ -1,0 +1,9 @@
+button {
+    margin: 10px;
+}
+
+#current-page {
+    font-size: 1.3rem;
+    font-weight: 700;
+    margin: 0 100px;
+}
